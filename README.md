@@ -1,4 +1,4 @@
-# System Monitor
+# System Monitor 🧑‍💻
 
 A lightweight system resource monitoring project that displays your CPU, memory, and disk usage. This project includes two versions:
 
@@ -21,7 +21,7 @@ A lightweight system resource monitoring project that displays your CPU, memory,
 
 ---
 
-## Features
+## Features ✅
 
 - **CPU Usage:** Displays the current CPU load percentage.
 - **Memory Usage:** Calculates and displays the percentage of used memory.
@@ -30,7 +30,7 @@ A lightweight system resource monitoring project that displays your CPU, memory,
 
 ---
 
-## Prerequisites
+## Prerequisites ✅
 
 - **For Bash Script:**
   - [Git for Windows](https://gitforwindows.org/) (includes Git Bash)
@@ -41,7 +41,7 @@ A lightweight system resource monitoring project that displays your CPU, memory,
 
 ---
 
-## Installation
+## Installation ✅
 
 1. **Clone the Repository:**
 
@@ -50,7 +50,7 @@ A lightweight system resource monitoring project that displays your CPU, memory,
    git clone https://github.com/your-username/system-monitor.git
    cd system-monitor
 
-## Usage
+## Usage ✅
 
 1. **Running the Bash Script (Git Bash)**
 
@@ -91,17 +91,19 @@ Then you will get this kind of output
 =====================================
 ```
 
-## Screenshots
+## Screenshots ✅
 How it works on GitBash Terminal
+</br>
 ![GitBash](https://github.com/user-attachments/assets/a5f8b661-edc4-4efc-bce9-be5802b29ded)
 
 How it works on Powershell or CMD
+</br>
 ![cmd](https://github.com/user-attachments/assets/3d9a929d-c825-49a0-a670-65e0f8dc540a)
 
-## Contributing
+## Contributing ✅
 
 Contributions are welcome! Please fork this repository and submit your pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-This project is licensed under the **MIT License** - see the [LICENSE](https://github.com/Tharindu714/System-Monitor-Open_source/blob/main/LICENCE) file for details.
+## License ✅
 
+This project is licensed under the **MIT License** - see the [LICENSE](https://github.com/Tharindu714/System-Monitor-Open_source/blob/main/LICENCE) file for details.
