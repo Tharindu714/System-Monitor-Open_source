@@ -91,10 +91,17 @@ Then you will get this kind of output
 =====================================
 ```
 
+## Screenshots
+How it works on GitBash Terminal
+![GitBash](https://github.com/user-attachments/assets/a5f8b661-edc4-4efc-bce9-be5802b29ded)
+
+How it works on Powershell or CMD
+![cmd](https://github.com/user-attachments/assets/3d9a929d-c825-49a0-a670-65e0f8dc540a)
+
 ## Contributing
 
 Contributions are welcome! Please fork this repository and submit your pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
-Distributed under the MIT License.
+This project is licensed under the **MIT License** - see the [LICENSE](https://github.com/Tharindu714/System-Monitor-Open_source/blob/main/LICENCE) file for details.
 
